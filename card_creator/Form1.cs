@@ -1,11 +1,6 @@
-﻿using System;
-using System.Drawing;
-using System.Drawing.Imaging;
+﻿using System.Drawing.Imaging;
 using System.Drawing.Drawing2D;
-using System.Windows.Forms;
-using System.Security.Policy;
 using System.Drawing.Text;
-using System.Runtime.CompilerServices;
 
 namespace card_creator
 {
